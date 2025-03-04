@@ -1,0 +1,94 @@
+ubuntu@ip-172-31-15-5:~/dev_2$ history
+    1  ls
+    2  cd
+    3  pwd
+    4  mkdir devops
+    5  ls
+    6  touch file1.txt
+    7  ls
+    8  ls -l
+    9  cd devops/
+   10  ls
+   11  mkdir aws
+   12  touch linux.txt
+   13  ls
+   14  clear
+   15  history
+   16  date
+   17  time
+   18  datetime
+   19  ls
+   20  rm aws/
+   21  rmdir aws/
+   22  ls
+   23  rm linux.txt
+   24  ls
+   25  cd
+   26  ls
+   27  rmdir devops/
+   28  rm file1.txt
+   29  ls
+   30  mkdir dev_1
+   31  mkdir dev_2
+   32  ls
+   33  cd dev_1
+   34  touch f1.txt
+   35  cat f1.txt
+   36  cp f1.txt /home/ubuntu/dev_2
+   37  ls
+   38  cd dev_2
+   39  cd
+   40  ls
+   41  cd dev_2
+   42  ls
+   43  cd
+   44  ls -l
+   45  ls
+   46  cd my_folder/
+   47  ls
+   48  vi file_2.txt
+   49  cat file_2.txt
+   50  cp file_2.txt file_1.txt
+   51  cat file_1.txt
+   52  ls
+   53  history
+   54  cd
+   55  ls
+   56  cd dev_2
+   57  ls
+   58  touch f2.txt
+   59  touch f3.txt
+   60  touch f4.txt
+   61  touch f5.txt
+   62  touch f6.txt
+   63  touch f7.txt
+   64  touch f8.txt
+   65  touch f9.txt
+   66  touch f10.txt
+   67  ls
+   68  touch aws.txt
+   69  touch azure.txt
+   70  touch gcp.txt
+   71  touch neo4j.txt
+   72  touch python.txt
+   73  touch java.txt
+   74  touch jdbc.txt
+   75  touch html.txt
+   76  touch css.txt
+   77  touch js.txt
+   78  ls
+   79  mv .txt .yml head-5
+   80  mv aws.txt aws.yml
+   81  mv css.txt css.yml
+   82  mv f10.txt f10.yml
+   83  mv azure.txt azure.yml
+   84  mv html.txt html.yml
+   85  ls -ltr
+   86  ls -a
+   87  mv f1.txt f1.yml
+   88  mv f2.txt f2.yml
+   89  mv f3.txt f3.yml
+   90  mv f3.txt f4.yml
+   91  mv f4.txt f4.yml
+   92  mv f5.txt f5.yml
+   93  ls -ltr
